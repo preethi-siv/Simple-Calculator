@@ -57,20 +57,18 @@ calculator/
 ---
 
 ## 🔮 Future Enhancements
-Add support for keyboard input
 
-Implement dark/light mode toggle
-
-Add advanced operations (%, √, etc.)
-
-Make UI mobile responsive using Flexbox or CSS Grid
-
-Add display history or memory feature
+- Add support for keyboard input  
+- Implement dark/light mode toggle  
+- Add advanced operations (%, √, etc.)  
+- Make UI mobile responsive using Flexbox or CSS Grid  
+- Add display history or memory feature
 
 ---
 
 ## 👩‍💻 Author
-Preethi S
+
+**Preethi S**  
 Aspiring web developer focused on clean UI and practical projects.
 
 If you found this helpful, consider ⭐ starring the repo!
@@ -78,9 +76,7 @@ If you found this helpful, consider ⭐ starring the repo!
 ---
 
 ## 📬 Contact
-GitHub: github.com/preethi-siv
 
-LinkedIn: linkedin.com/in/preethi-sivakumar2004
-
-
+- GitHub: [github.com/preethi-siv](https://github.com/preethi-siv)  
+- LinkedIn: [linkedin.com/in/preethi-sivakumar2004](https://linkedin.com/in/preethi-sivakumar2004)
 
