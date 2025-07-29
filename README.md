@@ -40,16 +40,19 @@ calculator/
    ```bash
    git clone https://github.com/your-username/simple-calculator.git
    cd simple-calculator
+   ```
 
-2.Open main.html in your browser:
+2. **Open `main.html`** in your browser:
 
- *Double-click on main.html, or
-
- *Use terminal:
-  start main.html     # For Windows
-  open main.html      # For macOS
+   - ✅ Double-click on `main.html`, **or**
+   - ✅ Use terminal:
+     ```bash
+     start main.html     # For Windows
+     open main.html      # For macOS
+     ```
 
 ✅ No installation required — runs directly in the browser.
+
 
 ---
 
