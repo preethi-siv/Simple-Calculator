@@ -24,11 +24,13 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 
 ## 📁 Project Structure
 
+```
 calculator/
-├── main.html # Calculator layout
-├── script.js # JavaScript logic
-├── style.css # Optional styling (not uploaded)
-└── README.md # Project documentation
+├── main.html       # Calculator layout and structure (HTML)
+├── script.js       # JavaScript logic and functions
+├── style.css       # Styling (optional – not uploaded yet)
+└── README.md       # Project documentation
+```
 
 ---
 
