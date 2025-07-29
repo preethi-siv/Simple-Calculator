@@ -51,7 +51,7 @@ calculator/
 
 ---
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 Add support for keyboard input
 
 Implement dark/light mode toggle
@@ -64,7 +64,7 @@ Add display history or memory feature
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 Preethi S
 Aspiring web developer focused on clean UI and practical projects.
 
@@ -72,7 +72,7 @@ If you found this helpful, consider ⭐ starring the repo!
 
 ---
 
-📬 Contact
+## 📬 Contact
 GitHub: github.com/preethi-siv
 
 LinkedIn: linkedin.com/in/preethi-sivakumar2004
